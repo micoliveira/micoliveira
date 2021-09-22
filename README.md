@@ -16,6 +16,9 @@
 - 📧 Contate-me no email: mariamichelep@gmail.com
 </pre>
 
+![image](https://user-images.githubusercontent.com/87742551/134349296-f0353f5d-c3f8-42ed-9f88-32420bf68c58.png)
+
+
  <div>
   <a href="https://github.com/micoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
