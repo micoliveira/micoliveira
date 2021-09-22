@@ -3,7 +3,7 @@
 <pre>
 - 👩🏻‍💻 Atualmente estou trabalhando com projetos pessoais em HTML 
 
-- 📚Estudando atualmente Desenvolvimento Web (Udemy) - Javascript (Udemy)
+- 📚Estudando Desenvolvimento Web (Udemy) - Javascript (Udemy)
 
 - 💻Cursando Desenvolvimento de Software na Cruzeiro do Sul. 
 
