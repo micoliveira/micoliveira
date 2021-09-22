@@ -7,7 +7,7 @@
 
 - 💻Cursando Desenvolvimento de Software na Cruzeiro do Sul. 
 
-- ✨Participei do Programa de Aceleração em tecnologia **Luiza <CODE> 3ª Edição Node.Js**
+- ✨Participei do Programa de Aceleração em tecnologia Luiza <CODE> 3ª Edição Node.Js
 
 - ✨Participando atualmente do Bootcamp Take Blip Fullstack Developer #2!
 
