@@ -9,7 +9,7 @@
 
 - ✨Participei do Programa de Aceleração em tecnologia Luiza CODE 3ª Edição Node.Js
 
-- ✨Participando atualmente do Bootcamp Take Blip Fullstack Developer #2!
+- ✨Participando atualmente do programa de formação Vai Na Web - Front-end
 
 - 😄 Pronome : Ela/Dela 
 
