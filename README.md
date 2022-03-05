@@ -5,8 +5,6 @@
 
 - 📚Estudando Desenvolvimento Web (Udemy) - Javascript (Udemy)
 
-- 💻Cursando Desenvolvimento de Software na Cruzeiro do Sul. 
-
 - ✨Participei do Programa de Aceleração em tecnologia Luiza CODE 3ª Edição Node.Js
 
 - ✨Participando atualmente do programa de formação Vai Na Web - Front-end
