@@ -5,6 +5,8 @@
 
 - 📚Estudando Desenvolvimento Web (Udemy) - Javascript (Udemy)
 
+- 📚 Estudante Vai Na Web no Curso de desenvolvimento Front-end
+
 - ✨Participei do Programa de Aceleração em tecnologia Luiza CODE 3ª Edição Node.Js
 
 - 😄 Pronome : Ela/Dela 
