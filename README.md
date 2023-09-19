@@ -3,6 +3,8 @@
 <pre>
 - 👩🏻‍💻 Atualmente estou trabalhando com projetos pessoais em HTML 
 
+- 📚Estudando Analise e desenvolvimento de sistema - Universidade Cruzeiro do Sul (Conclusão Dez/2025) 
+
 - 📚Estudando Desenvolvimento Web (Udemy) - Javascript (Udemy)
 
 - 📚 Estudante Vai Na Web no Curso de desenvolvimento Front-end
