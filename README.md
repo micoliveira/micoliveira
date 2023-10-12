@@ -1,11 +1,11 @@
 ### Olá Bem-vindo ao meu perfil do GitHub 👋
 
 <pre>
-- 👩🏻‍💻 Atualmente estou trabalhando com projetos pessoais em HTML 
+- 👩🏻‍💻 Atualmente estou trabalhando com projetos pessoais.
 
 - 📚Estudando Analise e desenvolvimento de sistema - Universidade Cruzeiro do Sul (Conclusão Dez/2025) 
 
-- 📚Estudando Desenvolvimento Web (Udemy) - Javascript (Udemy)
+- 📚Estudando Desenvolvimento Fullstack (SoulCode) - Javascript (Udemy)
 
 - 📚 Estudante Vai Na Web no Curso de desenvolvimento Front-end
 
