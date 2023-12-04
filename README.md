@@ -11,10 +11,12 @@
 
 - 😄 Pronome : Ela/Dela 
 
-
 </pre>
 
-![image](https://user-images.githubusercontent.com/87742551/134349296-f0353f5d-c3f8-42ed-9f88-32420bf68c58.png)
+
+
+![download20231201000859](https://github.com/micoliveira/micoliveira/assets/87742551/55c55de0-0c77-4093-9733-c5c13f9d8722)
+
 
 <div style="width: 200px;">
 <a href="https://github.com/micoliveira/github-readme-stats">
