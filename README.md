@@ -18,6 +18,12 @@
 
 ![image](https://user-images.githubusercontent.com/87742551/134349296-f0353f5d-c3f8-42ed-9f88-32420bf68c58.png)
 
+<div style="width: 200px;">
+<a href="https://github.com/micoliveira/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micoliveira&langs_count=8" alt="Top Langs" />
+</a>
+</div>
+
 
 <a href = "mailto:mariamichelep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michele-oliveira-969218122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
