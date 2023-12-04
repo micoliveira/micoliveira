@@ -5,15 +5,13 @@
 
 - 📚Estudando Analise e desenvolvimento de sistema - Universidade Cruzeiro do Sul (Conclusão Dez/2025) 
 
-- 📚Estudando Desenvolvimento Fullstack (SoulCode) - Javascript (Udemy)
-
 - 📚 Estudante Vai Na Web no Curso de desenvolvimento Front-end
 
 - ✨Participei do Programa de Aceleração em tecnologia Luiza CODE 3ª Edição Node.Js
 
 - 😄 Pronome : Ela/Dela 
 
-- 📧 Contate-me no email: mariamichelep@gmail.com
+
 </pre>
 
 ![image](https://user-images.githubusercontent.com/87742551/134349296-f0353f5d-c3f8-42ed-9f88-32420bf68c58.png)
