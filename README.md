@@ -1,17 +1,24 @@
+ ![Purple Geometric Technology LinkedIn Banner](https://github.com/micoliveira/micoliveira/assets/87742551/f37abcbe-e154-43b8-960e-750751001156)
+
+
 ### Olá Bem-vindo ao meu perfil do GitHub 👋
 
-<pre>
-- 👩🏻‍💻 Atualmente estou trabalhando com projetos pessoais.
 
-- 📚Estudando Analise e desenvolvimento de sistema - Universidade Cruzeiro do Sul (Conclusão Dez/2025) 
 
-- 📚 Estudante Vai Na Web no Curso de desenvolvimento Front-end
+**Sobre Mim** 👩🏻‍💻
 
-- ✨Participei do Programa de Aceleração em tecnologia Luiza CODE 3ª Edição Node.Js
+Atualmente, estou focada em projetos pessoais enquanto continuo a aprimorar minhas habilidades na área de tecnologia. Aqui está um resumo das minhas características:
 
-- 😄 Pronome : Ela/Dela 
+📚 Educação: Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com previsão de conclusão em dezembro de 2025.
 
-</pre>
+📚 Estudos Adicionais: Sou estudante na plataforma Vai Na Web, focando no desenvolvimento Front-end para expandir ainda mais meu conhecimento na área.
+
+✨ Experiência: Participei com entusiasmo da 3ª Edição do Programa de Aceleração em Tecnologia Luiza CODE, onde tive a oportunidade de me aprofundar em Node.js.
+
+😄 Pronome: Me sinto confortável sendo referida pelos pronomes "Ela/Dela".
+
+Fique à vontade para explorar meus projetos e acompanhar meu desenvolvimento nesta jornada tecnológica! ✨🚀
+
 
 
 
@@ -31,3 +38,5 @@
   <a href="https://www.linkedin.com/in/michele-oliveira-969218122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/micoliveira/micoliveira/blob/output/github-contribution-grid-snake.svg)
+
+ 
