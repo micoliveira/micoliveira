@@ -24,7 +24,7 @@
 </a>
 </div>
 
-![Michele GitHub stats](https://github-readme-stats.vercel.app/api?username=micoliveira&show_icons=true&theme=gruvbox)
+![Michele GitHub stats](https://github-readme-stats.vercel.app/api?username=micoliveira&show_icons=true&theme=dracula)
 
 
 <a href = "mailto:mariamichelep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
