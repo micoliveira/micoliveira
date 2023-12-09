@@ -4,14 +4,14 @@
 ### Olá Bem-vindo ao meu perfil do GitHub 👋
 
 
-
+<div align="center">
 **Sobre Mim** 👩🏻‍💻
 
-Atualmente, estou focada em projetos pessoais enquanto continuo a aprimorar minhas habilidades na área de tecnologia. Aqui está um resumo das minhas características:
+Atualmente, estou focada em projetos pessoais enquanto continuo a aprimorar minhas habilidades na área de tecnologia. 
 
 📚 Educação: Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com previsão de conclusão em dezembro de 2025.
 
-📚 Estudos Adicionais: Sou estudante na plataforma Vai Na Web, focando no desenvolvimento Front-end para expandir ainda mais meu conhecimento na área.
+📚 Estudos Adicionais: Sou estudante na instituição Vai Na Web, focando no desenvolvimento Front-end para expandir ainda mais meu conhecimento na área iniciei na turma de Front-end e Cloud AWS.
 
 ✨ Experiência: Participei com entusiasmo da 3ª Edição do Programa de Aceleração em Tecnologia Luiza CODE, onde tive a oportunidade de me aprofundar em Node.js.
 
@@ -24,12 +24,13 @@ Fique à vontade para explorar meus projetos e acompanhar meu desenvolvimento ne
 
 ![download20231201000859](https://github.com/micoliveira/micoliveira/assets/87742551/55c55de0-0c77-4093-9733-c5c13f9d8722)
 
+</div>
 
-<div style="width: 200px;">
+
 <a href="https://github.com/micoliveira/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micoliveira&langs_count=8" alt="Top Langs" />
 </a>
-</div>
+
 
 ![Michele GitHub stats](https://github-readme-stats.vercel.app/api?username=micoliveira&show_icons=true&theme=dracula)
 
