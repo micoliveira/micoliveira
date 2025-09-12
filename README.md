@@ -61,7 +61,8 @@
 
 
 <a href = "mailto:mariamichelep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michele-oliveira-969218122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/michele-oliveira-969218122/" target="_blank"><img width="1584" height="396" alt="Beige Simple Elegant Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/32e23a84-ecb9-4ae7-9720-87d93e682459" />
+</a> 
 
 
 
