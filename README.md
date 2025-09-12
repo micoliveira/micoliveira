@@ -1,7 +1,8 @@
 
 <div align="center"; width="10px">
  
-![download20231201000859](https://github.com/micoliveira/micoliveira/assets/87742551/55c55de0-0c77-4093-9733-c5c13f9d8722)
+<img width="1024" height="1024" alt="img-github" src="https://github.com/user-attachments/assets/3e9ed581-c2fe-432d-b47b-89856498f48f" />
+
 
 </div>
 
