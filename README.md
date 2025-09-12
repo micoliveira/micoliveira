@@ -69,9 +69,4 @@
 
 
 
-  ![Purple Geometric Technology LinkedIn Banner](https://github.com/micoliveira/micoliveira/assets/87742551/f37abcbe-e154-43b8-960e-750751001156)
-
-
- 
-
  
