@@ -1,8 +1,7 @@
 
 <div align="center"; width="10px">
  
-<img width="1024" height="1024" alt="img-github" src="https://github.com/user-attachments/assets/3e9ed581-c2fe-432d-b47b-89856498f48f" />
-
+ <img width="1024" height="1536" alt="Anime-style illustra" src="https://github.com/user-attachments/assets/1cd694f1-4f89-44bf-aa6d-5ed2ff662480" />
 
 </div>
 
